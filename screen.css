@@ -13,4 +13,5 @@ body{
     height: 50%;
     float: left;
     text-align: left;
+    display: block;
 }
