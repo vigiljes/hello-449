@@ -28,6 +28,7 @@ body{
     width: 384px;
     height: 373px;
     padding: 15px;
+    margin: 0 auto;
     border-radius: 20px
     background-color: lightgray;
 }
@@ -36,6 +37,7 @@ body{
     width: 384px;
     height: 373px;
     padding: 15px;
+    margin: 0 auto;
     border-radius: 20px
     background-color: lightgray;
 }
