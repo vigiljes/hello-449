@@ -21,11 +21,11 @@ body{
 }
 
 .card1{
-    display: inline-block;
+    display: flexbox;
     padding: 15px;
 }
 
 .card2{
-    display: inline-block;
+    display: flexbox;
     padding: 15px;
 }
