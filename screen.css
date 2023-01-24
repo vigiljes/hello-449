@@ -26,15 +26,16 @@ body{
 
 
 .card1{
-    padding: 15px;
+    padding: 5px;
     background-color: lightgray;
 }
 
 .card2{
-    padding: 15px;
+    padding: 5px;
     background-color: lightgray;
 }
 
 #SCRILP{
     background-color: gray;
+    width: 100%;
 }
