@@ -27,7 +27,6 @@ body{
     height: 227px;
     margin: 0 auto;
     margin-top: 10px;
-    margin-right: 10px;
     display: flex;
     flex-direction: row;
     border-radius: 20px
@@ -37,6 +36,7 @@ body{
     padding: 15px;
     background-color: lightgray;
     border-radius: 20px
+    margin-right;
 }
 
 .card2{
