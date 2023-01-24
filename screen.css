@@ -31,14 +31,14 @@ body{
 
 .card1{
     padding: 15px;
-    margin: 0 auto;
     background-color: lightgray;
+    border-radius: 20px
 }
 
 .card2{
     padding: 15px;
-    margin: 0 auto;
     background-color: lightgray;
+    border-radius: 20px
 }
 
 #SCRILP{
