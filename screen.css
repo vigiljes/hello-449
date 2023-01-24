@@ -5,7 +5,7 @@
 
 #lonely{
     border-radius: 20px;
-    width: 800px; 
+    width: -800px; 
     height: 227px; 
     object-fit: cover;
 }
