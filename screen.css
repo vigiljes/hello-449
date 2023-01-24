@@ -16,16 +16,15 @@ body{
   }
 
 .column{
+    display: flex;
     width: 50%;
     height: 50%;
 }
 
 .card1{
-    display: flexbox;
     padding: 15px;
 }
 
 .card2{
-    display: flexbox;
     padding: 15px;
 }
