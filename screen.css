@@ -23,8 +23,8 @@ body{
   }
 
 .column{
-    width: 384px;
-    height: 373px;
+    width: 800px;
+    height: 227px;
     margin: 0 auto;
     display: flex;
     flex-direction: row;
