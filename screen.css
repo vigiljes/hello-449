@@ -22,6 +22,10 @@ body{
     width: 100%;
   }
 
+p{
+    margin: 0 auto;
+    text-align: left;
+}
 .column{
     width: 800px;
     height: 227px;
