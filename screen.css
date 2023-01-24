@@ -19,20 +19,23 @@ body{
   }
 
 .column{
-    width: 384px;
-    height: 373px;
+    width: 50%;
     display: flex;
     border-radius: 20px
 }
 
 
 .card1{
+    width: 384px;
+    height: 373px;
     padding-right: 15px;
     background-color: lightgray;
 }
 
 .card2{
-    padding-right: 15px;
+    width: 384px;
+    height: 373px;
+    padding-left: 15px;
     background-color: lightgray;
 }
 
