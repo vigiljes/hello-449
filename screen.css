@@ -1,5 +1,5 @@
 #lonely{
-    width: 50%;
+    width: 100%;
     height: 30%;
     border-radius: 20px;
 }
@@ -16,6 +16,7 @@ body{
     margin-top: 100px;
     margin: 0 auto;
     width: 100%;
+    border-radius: 20px
   }
 
 .column{
