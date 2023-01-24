@@ -11,7 +11,7 @@
 
 #hello{
     text-align: left;
-    color: gray;
+    color: slategrey;
 }
 
 body{
@@ -43,5 +43,6 @@ body{
 }
 
 #SCRILP{
-    background-color: gray;
+    background-color: slategrey;
+    color: white;
 }
