@@ -1,6 +1,6 @@
 #lonely{
-    max-width: 800px;
-    max-height: 227px;
+    width: 800px;
+    height: 227px;
     border-radius: 20px;
 }
 
@@ -21,24 +21,17 @@ body{
 .column{
     width: 50%;
     display: flex;
+    border-radius: 20px
 }
 
 
 .card1{
-    width: 384px;
-    height: 373px;
     padding: 15px;
-    margin: 0 auto;
-    border-radius: 20px
     background-color: lightgray;
 }
 
 .card2{
-    width: 384px;
-    height: 373px;
     padding: 15px;
-    margin: 0 auto;
-    border-radius: 20px
     background-color: lightgray;
 }
 
