@@ -27,7 +27,7 @@ body{
 .card1{
     width: 384px;
     height: 373px;
-    padding-left: 15px;
+    padding: 15px;
     border-radius: 20px
     background-color: lightgray;
 }
@@ -35,7 +35,7 @@ body{
 .card2{
     width: 384px;
     height: 373px;
-    padding-left: 15px;
+    padding: 15px;
     border-radius: 20px
     background-color: lightgray;
 }
