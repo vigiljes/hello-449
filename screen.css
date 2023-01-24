@@ -26,6 +26,8 @@ body{
     width: 800px;
     height: 227px;
     margin: 0 auto;
+    margin-top: 10px;
+    margin-right: 10px;
     display: flex;
     flex-direction: row;
     border-radius: 20px
