@@ -19,9 +19,11 @@ body{
 }
 
 .card1{
-    float: left;
+    display: grid;
+    padding: 15px;
 }
 
 .card2{
-    float: left;
+    display: grid;
+    padding: 15px;
 }
