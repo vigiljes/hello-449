@@ -2,15 +2,18 @@
     width: 50%;
     height: 30%;
     border-radius: 20px;
+    display: flex;
+    flex-direction: column;
 }
 
 #hello{
     text-align: left;
+    display: flex;
+    flex-direction: column;
 }
 
 body{
-    display: flex;
-    flex-direction: column;
+    display: block;
     background-color: white;
     font-family: Arial, Helvetica, sans-serif;
     margin-top: 100px;
