@@ -6,9 +6,9 @@
 #lonely{
     border-radius: 20px;
     width: 800px; 
-    height: -227px; 
+    height: 227px; 
     object-fit: cover;
-    object-position: 50% 0;
+    object-position: 100% 0 0;
 }
 
 #hello{
