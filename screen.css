@@ -1,6 +1,6 @@
 #lonely{
-    width: 200px;
-    height: 400px;
+    width: 800px;
+    height: 227px;
     border-radius: 20px;
 }
 
@@ -26,11 +26,15 @@ body{
 
 
 .card1{
+    width: 384px;
+    height: 373px;
     padding: 15px;
     background-color: lightgray;
 }
 
 .card2{
+    width: 384px;
+    height: 373px;
     padding: 15px;
     background-color: lightgray;
 }
