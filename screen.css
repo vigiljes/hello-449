@@ -19,11 +19,11 @@ body{
 }
 
 .card1{
-    display: grid;
+    display: inline-block;
     padding: 15px;
 }
 
 .card2{
-    display: grid;
+    display: inline-block;
     padding: 15px;
 }
