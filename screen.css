@@ -21,6 +21,7 @@ body{
 
 .column{
     display: flex;
+    max-width: 50%;
 }
 
 .card1{
